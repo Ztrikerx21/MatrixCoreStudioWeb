@@ -1,0 +1,92 @@
+#cardHolder{
+  border: solid black 2px;
+}
+#decks{
+  border: solid black 2px;
+}
+#tempCard{
+  background-color: #c0c0c0;
+
+}
+#trashbin{
+  border: solid black 1px;
+  margin: 10px;
+  width: 100px;
+  height: 100px;
+  display:inline-block;
+
+  background-image: url("../images/trashbin.jpg");
+}
+.card{
+  border: solid black 1px;
+  margin: 10px;
+  display:inline-block;
+}
+.blessing{
+  border: solid black 1px;
+  width: 100px;
+  height: 180px;
+  margin: 10px;
+  display:inline-block;
+  text-align: center;
+}
+.curse{
+  border: solid black 1px;
+  width: 100px;
+  height: 180px;
+  margin: 10px;
+  display:inline-block;
+  text-align: center;
+}
+.more_info {
+  border-bottom: 1px dotted;
+  position: relative;
+}
+
+.more_info .title {
+    position: absolute;
+    top: 20px;
+    background: silver;
+    padding: 4px;
+    left: 0;
+    white-space: nowrap;
+}
+#zombiePoolHolder{
+  border: solid black 2px;
+  overflow: hidden;
+  min-height: 100px;
+}
+.name{
+  display:inline;
+  font-weight: bold;
+}
+.cost{
+  display:inline;
+  font-weight: bold;
+  color: #0066ff;
+}
+.id{
+  display:inline;
+}
+.description{
+ font-size: 18px;
+ font-family: verdana;
+}
+.pool{
+  border: solid 1px black;
+  padding: 5px;
+  margin: 10px 10px 10px 10px;;
+}
+#poolButtonHolder{
+  overflow: hidden;
+  float:right;
+  width: 150px;
+  border: solid black 1px;
+  background-color: rgb(255, 100, 100);
+}
+.poolButtons{
+  padding: 5px;
+  border: solid black 1px;
+  background-color: rgb(255, 255, 255);
+  margin: 10px;
+}

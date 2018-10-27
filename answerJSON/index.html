@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang = "en-US">
+<head>
+  <title>Answer the door JSON generator</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div id="inputHolder">
+  ID (5 chars):<br>
+  <input  type = "text" id = "id" maxlength="5" required="required"> <br>
+  Name (20 chars):<br>
+  <input  type = "text" id = "name" maxlength="20" required="required"> <br>
+  ImageName (50 chars):<br>
+  <input  type = "text" id = "imageName" maxlength="50" value="none"> <br>
+  Font:<br>
+  <select type = "text" id = "font">
+    <option value="default" >default</option>
+    <option value="agitated" >agitated</option>
+    <option value="screaming" >screaming</option>
+  </select>
+  <div id="dialogBoxHolder">
+  Dialog (150 chars):<br>
+  <textarea id = "dialog0" maxlength="150" rows="4" cols = "50" required="required"></textarea>
+
+    <span class="dialogButtonHolder"> <button onclick=newDialog()>+</button><button>-</button> </span>
+
+</div>
+  <input type="submit" value="Generate" onclick="getInfo()">
+  <input type="reset" value="Reset the form"><br>
+</div>
+
+<div id="jsonHolderCSS">
+<textarea rows="20" cols="50" id="jsonHolder"> </textarea>
+</div>
+<script src=main.js>  console.log("Hello");</script>
+</body>
+</html>

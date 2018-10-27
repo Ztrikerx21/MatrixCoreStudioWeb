@@ -1,0 +1,83 @@
+1	2	3	4
+0	No Name	2 RP	Receive Unstoppable for the rest of the current Round. (Can step on other Zombies)
+1	No Name	4 RP	Instantly change to opposing direction.
+2	Vitamin Z	3 RP	Receive Agression(1) for your next landing. (Increase your total range by 1).
+3	No Name	6 RP	Swap places with the nearest non-weakling Zombie. This does not count as landing.
+4	Alchemy I	1 S	Trade one stock for 6 RP only if you are a non-leader Zombie.
+5	No Name	Free	Receive Nonexistent for the rest of the current Round. (Can only roll dice and move. You cannot affect anything, and nothing can affect you.)
+6	No Name	3 RP	Receive Threatened(5) for your next Movement Phase. (Ignore Dice Roll value, instead your total movement is 5)
+7	No Name	7 RP	Receive Divine Protection for the rest of the current Round. (Cannot die nor lose a stock by any means)
+8	Toxic Waste	3 RP	Don't reduce your movement count when stepping in Radioactive Zones for your whole next Movement Phase.
+9	Bite Jump	7 RP	"If a Viking is directly in front of you and there's legal path in between, move instantly to that Viking's position; this count as landing."
+10	No Name	2 RP	Receive Flexible for the rest of the current Round. (Other Zombies can step you).
+11	No Name	5 RP	Receive Unstopabble and Flexible for the rest of the current Round. (Can step other Zombies and other Zombies can step you)
+12	Baton Pass	3 RP	Can only be activated during your Begin Turn Phase, skip your whole turn and pass it to target Zombie. This ends your turn. (That Zombie will have 2 turns this Round)
+13	No Name	7 RP	Swap places with the nearest Weakling Zombie. This does not count as landing.
+14	No Name	Free	Transfer 5 RP to the nearest Non-Weakling Zombie. If you have less than 5 RP, transfer it all.
+15	No Name	1 RP	If you have not moved yet this Round, you can re-roll dice. 1 use.
+16	No Name	4 RP	If you have not moved yet this Round, you can re-roll dice. 3 uses.
+17	No Name	Free	Transfer X RP to target Zombie. X is the value of a D6 dice roll. If it results higher than your current RP, transfer it all.
+18	No Name	4 RP	Paralyze target Viking in Range(3) for its next Movement Phase.
+19	Alchemy II	6 RP	Gain a stock.
+20	No Name	4 RP	If you are not a Zombie Leader, transfer one of your stocks to target Non-Weakling Zombie.
+21	No Name	1 RP	Receive Quickness(1) for your next Movement Phase. (Add 1 to your total movement)
+22	No Name	2 RP	Receive Quickness(2) for your next Movement Phase. (Add 2 to your total movement)
+23	No Name	3 RP	Receive Quickness(3) for your next Movement Phase. (Add 3 to your total movement)
+24	No Name	1 S	Trade one stock for Quickness(5) for your next Movement Phase. (Add 5 to your total movement).
+25	No Name	6 RP	Paralyze target Viking in Range(5) for its next Movement Phase.
+26	No Name	7 RP	Target Viking in Range(3) instantly loses 1 stock but does not dies.
+27	No Name	1 RP	All Vikings in Highgrounds instantly lose 3 PP.
+28	No Name	2 RP	All Vikings in Highgrounds instantly lose 5 PP.
+29	No Name	2 RP	Target Viking in Range(3) instantly loses 4 PP.
+30	No Name	Free	Spawn a Weakling Zombie in your position.
+31	No Name	3 RP	Spawn a Weakling Zombie in target legal space in Range(3).
+32	No Name	Free	Destroy target Weakling Zombie and gain 5 RP.
+33	No Name	Free	Gain 1 more extra RP from Radioactive Zones in your next movement Phase.
+34	No Name	4 RP	Target Viking in Range(5) instantly loses 4 PP.
+35	No Name	3 RP	Target Viking in Range(3) receives Disruption until the next start of the Zombie Phase. (That Viking cannot use any ability, passive or active).
+36	No Name	5 RP	Target Viking in Range(5) receives Disruption until the next start of the Zombie Phase. (That Viking cannot use any ability, passive or active).
+37	No Name	6 RP	Target Viking in Range(2) receives Petrification until the next start of the Zombie Phase. (That Viking doesn't have a turn).
+38	No Name	2 RP	Target Zombie in Range(3) instantly gains 4 RP.
+39	No Name	3 RP	Target Zombie in Range(5) instantly gains 4 RP.
+40	No Name	4 RP	Target Viking in Range(3) receives Slowness(3) for its next Movement Phase. (That Viking reduces its total movement by 3).
+41	No Name	6 RP	Target Viking in Range(5) receives Slowness(3) for its next Movement Phase. (That Viking reduces its total movement by 3).
+42	No Name	2 RP	Land on the current space you are on and end your turn.
+43	No Name	6 RP	Receive Agression(2) for your next landing. (Increase your total range by 2).
+44	No Name	5 RP	Swap places with target Zombie Leader and end your turn. This does count as landing but only for you
+45	No Name	10 RP	All Vikings in Range(5) instantly loses all Blessings.
+46	No Name	10 RP	All Zombies in Range(10) (not including you) receive 5 RP and Divine Protection until the next start of the Zombie Phase. (Those Zombies cannot die nor lose stocks by any means).
+47	No Name	10 RP	All Vikings in Range(8) instantly loses all PP.
+48	Nuclear Disaster	12 RP	All Vikings in Range(5) die.
+1000	Malfunctioning Wire	Free	Receive Paralysis for your next Movement Phase.
+1001	No Name	Free	Receive Slowness(1) for your next Movement Phase. (Reduce your total movement by 1).
+1002	No Name	Free	Receive Slowness(2) for your next Movement Phase. (Reduce your total movement by 2).
+1003	No Name	Free	Receive Slowness(3) for your next Movement Phase. (Reduce your total movement by 3).
+1004	No Name	Free	Receive Petrification for 1 Cycle. (You don't have that turn)
+1005	No Name	Free	Receive Threatened(2) for your next Movement Phase. (You cannot roll dice, instead, your total movement is 2)
+1006	No Name	Free	Receive Threatened(1) for your next Movement Phase. (You cannot roll dice, instead, your total movement is 1)
+1007	No Name	Free	Lose 4 RP.
+1008	No Name	Free	Lose 6 RP.
+1009	No Name	Free	Receive Fear for 1 Cycle. (Cannot kill any Character by any means).
+1010	No Name	Free	Sickness: You cannot select cards from the Zombie Pool during the next Zombie Phase.
+1011	No Name	Free	Respawn.
+1012	No Name	Free	Lose 1 stock.
+1013	No Name	Free	Receive Disruption for 1 turn. (You cannot use any ability at all).
+1014	No Name	Free	All Zombies in Range(4) receive Fear for 1 turn.
+1015	No Name	Free	If you kill a Viking during your next landing, you also die.
+1016	No Name	Free	Destroy target Weakling Zombie.
+1017	No Name	Free	All Weakling Zombies are destroyed.
+1018	No Name	Free	Lose all RP.
+1019	No Name	Free	Transfer 1 stock to target Viking.
+1020	No Name	Free	Lose 3 RP and target Viking receives 3 PP.
+1021	No Name	Free	Lose 5 RP and target Viking receives 5 PP.
+1022	No Name	Free	Receive Agression(-1) for your next landing. (Your range decreases by 1).
+1023	No Name	Free	Allergic: Radioactive Zones will not give you any RP during your next Movement Phase.
+1024	No Name	Free	All Non-Weakling Zombies lose or gain RP until all have 3 RP.
+1025	No Name	Free	All Vikings in Range(5) receive Quickness(3) for their next Movement Phase. (They add 3 to their total movement).
+1026	No Name	Free	Nearest Viking receives Instinct(1) for 1 turn. (Can kill Zombies in Range(1)).
+1027	No Name	Free	All Vikings in Range(4) instantly gain 3 PP.
+1028	Angry Gods	Free	You die.
+1029	Malfunctioning Wires	Free	All Zombies in Range(4) receive Paralysis for their next Movement Phase.
+1030	No Name	Free	All Zombies in Range(5) receive Slowness(2) for their next Movement Phase.
+1031	No Name	Free	Lose 1 RP for each Viking stock in play.
+1032	No Name	Free	If you have 8 or more RP, all Zombies in Range(10) (including you) die and this card is destroyed, otherwise, it returns to the pool as if it was not selected.
